@@ -1,0 +1,31 @@
+class PagesController < ApplicationController
+  def home
+  end
+
+  def contact
+  end
+
+  def create
+  end
+
+  def app\controllers\pages_controller.rb
+  end
+
+  def route
+  end
+
+  def get
+  end
+
+  def pages/contact
+  end
+
+  def route
+  end
+
+  def get
+  end
+
+  def pages/home
+  end
+end
