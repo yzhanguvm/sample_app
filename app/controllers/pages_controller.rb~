@@ -5,27 +5,6 @@ class PagesController < ApplicationController
   def contact
   end
 
-  def create
-  end
-
-  def app\controllers\pages_controller.rb
-  end
-
-  def route
-  end
-
-  def get
-  end
-
-  def pages/contact
-  end
-
-  def route
-  end
-
-  def get
-  end
-
-  def pages/home
+  def about
   end
 end
