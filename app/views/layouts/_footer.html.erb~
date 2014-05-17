@@ -1,0 +1,14 @@
+<footer>
+	<nav class="round">
+		<ul>
+			<li><%= link_to "About", '#' %></li>
+			<li><%= link_to "Contact", '#' %></li>
+			<li><%= link_to "News", '#' %></li>
+			<li><a href="https://www.linkedin.com/in/yucanzhang">LinkedIn</li>
+			<li><a href="https://www.facebook.com/angie.yucanzhang">Facebook</li>
+			<li><a href="https://twitter.com/yucanzhang">Twitter</a></li>
+		</ul>
+	</nav>
+
+</footer>
+
